@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/simulated_processor/static/css/main.2cce8147.chunk.css",
-    "main.js": "/simulated_processor/static/js/main.bd3d106b.chunk.js",
-    "main.js.map": "/simulated_processor/static/js/main.bd3d106b.chunk.js.map",
+    "main.css": "/simulated_processor/static/css/main.850f1b0d.chunk.css",
+    "main.js": "/simulated_processor/static/js/main.17ce3764.chunk.js",
+    "main.js.map": "/simulated_processor/static/js/main.17ce3764.chunk.js.map",
     "runtime~main.js": "/simulated_processor/static/js/runtime~main.2e68fee2.js",
     "runtime~main.js.map": "/simulated_processor/static/js/runtime~main.2e68fee2.js.map",
-    "static/js/2.b41502e9.chunk.js": "/simulated_processor/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/simulated_processor/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.40b71d38.chunk.css": "/simulated_processor/static/css/2.40b71d38.chunk.css",
+    "static/js/2.0b3e003f.chunk.js": "/simulated_processor/static/js/2.0b3e003f.chunk.js",
+    "static/js/2.0b3e003f.chunk.js.map": "/simulated_processor/static/js/2.0b3e003f.chunk.js.map",
     "index.html": "/simulated_processor/index.html",
-    "precache-manifest.18b19ad41294aca7eb7d5a728a0b867c.js": "/simulated_processor/precache-manifest.18b19ad41294aca7eb7d5a728a0b867c.js",
+    "precache-manifest.6f43b0556c900e30f46e68c100e2cb0e.js": "/simulated_processor/precache-manifest.6f43b0556c900e30f46e68c100e2cb0e.js",
     "service-worker.js": "/simulated_processor/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/simulated_processor/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/simulated_processor/static/media/logo.5d5d9eef.svg"
+    "static/css/2.40b71d38.chunk.css.map": "/simulated_processor/static/css/2.40b71d38.chunk.css.map",
+    "static/css/main.850f1b0d.chunk.css.map": "/simulated_processor/static/css/main.850f1b0d.chunk.css.map",
+    "static/media/index.css": "/simulated_processor/static/media/roboto-latin-900italic.bc833e72.woff"
   }
 }
